@@ -1,5 +1,7 @@
 # Introduction to Unity3D
 
+***Max group size****: 10*
+
 The [Workshop Repository](https://github.com/MVSE-Outreach/unity-introduction-to-unity3D) is called "unity-introduction-to-unity3D".
 
 ## Useful Links
