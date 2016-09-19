@@ -1,5 +1,7 @@
 # Arduino Games
 
+***Max group size****: 20*
+
 The [Workshop Repository](https://github.com/MVSE-Outreach/arduino-games) is called "arduino-games".
 
 ## Useful Links
