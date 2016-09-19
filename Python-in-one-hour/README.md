@@ -1,5 +1,7 @@
 # Python in one hour
 
+***Max group size****: 12*
+
 The [Workshop Repository](https://github.com/MVSE-Outreach/python-one-hour-intro) is called "python-one-hour-intro".
 
 ## Useful Links
